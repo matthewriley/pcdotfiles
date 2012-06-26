@@ -1,0 +1,14 @@
+# Automatically normalize line endings for all text-based files
+* text=auto
+*.md text eol=lf
+*.sh text eol=lf
+.aliases text eol=lf
+.bash_profile text eol=lf
+.bash_prompt text eol=lf
+.bashrc text eol=lf
+.exports text eol=lf
+.functions text eol=lf
+.gitattributes text eol=lf
+.gitconfig text eol=lf
+.gitignore text eol=lf
+.inputrc text eol=lf
