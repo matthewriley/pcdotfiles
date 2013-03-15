@@ -1,0 +1,13 @@
+BoldAsFont=no
+Columns=110
+Rows=45
+FontHeight=12
+BoldAsColour=yes
+AllowBlinking=yes
+Transparency=low
+CursorType=underscore
+Locale=en_US
+Charset=UTF-8
+FontSmoothing=default
+OpaqueWhenFocused=no
+CursorBlinks=yes
