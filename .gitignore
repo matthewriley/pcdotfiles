@@ -14,3 +14,7 @@ Desktop.ini
 .settings
 .rdsTempFiles
 settings.xml
+
+# JetBrains generated #
+#######################
+.idea
